@@ -445,6 +445,10 @@ slots:
     allow-installation:
       slot-snap-type:
         - core
+  opencl:
+    allow-installation:
+      slot-snap-type:
+        - core
   openvswitch:
     allow-installation:
       slot-snap-type:

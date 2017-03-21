@@ -55,6 +55,7 @@ var implicitSlots = []string{
 	"network-setup-control",
 	"network-setup-observe",
 	"opengl",
+	"opencl",
 	"openvswitch-support",
 	"physical-memory-control",
 	"physical-memory-observe",

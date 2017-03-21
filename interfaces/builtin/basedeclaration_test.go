@@ -143,6 +143,7 @@ func (s *baseDeclSuite) TestAutoConnection(c *C) {
 		"network":                 true,
 		"network-bind":            true,
 		"opengl":                  true,
+		"opencl":                  true,
 		"optical-drive":           true,
 		"pulseaudio":              true,
 		"screen-inhibit-control":  true,
